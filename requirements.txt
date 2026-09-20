@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-gradio
-transformers
-pydantic
-torch==2.8.0
---extra-index-url https://download.pytorch.org/whl/cpu
